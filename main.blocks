@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="=k!=:Zn+?]/r%84Tujaa" x="0" y="0"></block><block type="device_forever" id="?a4KFFxBXZ8.Y)fG:%vc" x="205" y="0"></block><block type="device_gesture_event" id="5F*nvZ=SJ~4}4n5cK${." x="268" y="433"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="basic_show_arrow" id="4CNs!q]UU@9;-n;68BLe"><value name="i"><shadow type="device_arrow" id="rivC|W3O,EV{PM8E/o;X"><field name="arrow">ArrowNames.West</field></shadow></value><next><block type="device_show_leds" id="RXsm}uW39=[]Z_k/}x{V"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="A1hY`F%vf_g4|_j|7!bt" x="550" y="437"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="basic_show_arrow" id="VBWae7-^T^4C)6]%z#o@"><value name="i"><shadow type="device_arrow" id="`6q!/2{`QE1jRFsM[S]~"><field name="arrow">ArrowNames.North</field></shadow></value><next><block type="device_show_leds" id="m4vdD1[R9b`RN9hL9FwK"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="jM*d5vs(K@80WVSsA$n:" x="805" y="442"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="basic_show_arrow" id="vISMgCE0dUM{]J5m0EF`"><value name="i"><shadow type="device_arrow" id="py?#z;[THW.2z~r=T.!}"><field name="arrow">ArrowNames.South</field></shadow></value><next><block type="device_show_leds" id="},m?~lVip:OR-Zces?F%"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="m--87Zee.a=mJanmeKNy" x="1124" y="436"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="basic_show_arrow" id=":u5PK!,TeY8Z)0vW-``,"><value name="i"><shadow type="device_arrow" id="BvNS%+;K+]KvdEU[zoW?"><field name="arrow">ArrowNames.West</field></shadow></value><next><block type="device_show_leds" id="hsP`JS(2s-l^HBKD9)_^"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field></block></next></block></statement></block></xml>
